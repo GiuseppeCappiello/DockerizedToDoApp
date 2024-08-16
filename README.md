@@ -1,4 +1,4 @@
-If you have docker installed, just run this command : 
+If you have docker installed, run this command to launch the app:
 
 ```
   # docker compose up -d
